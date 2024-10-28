@@ -1,6 +1,6 @@
 # İÜC Karmaşık Mühendislik Birimi - IoT Tabanlı Veri İzleme ve Gönderim Sistemi
 
-Bu proje, **İstanbul Üniversitesi-Cerrahpaşa Karmaşık Mühendislik Birimi** tarafından geliştirilmiş olup, IoT ve gömülü sistemler tabanlı bir çözüm sunmaktadır. Sistem; ağırlık sensörü, su seviye sensörü ve kamera kullanarak çevresel verileri toplar ve bunları bir API sunucusuna belirli aralıklarla iletir. Bu proje, hem evcil hayvanların mama ve su takibini sağlamak hem de benzer izleme sistemlerinde veri kaynağı oluşturmak için kullanılabilir.
+Bu proje, **İstanbul Üniversitesi-Cerrahpaşa Karmaşık Mühendislik Birimi** altında geliştirilmiş olup, IoT ve gömülü sistemler tabanlı bir çözüm sunmaktadır. Sistem; ağırlık sensörü, su seviye sensörü ve kamera kullanarak çevresel verileri toplar ve bunları bir API sunucusuna belirli aralıklarla iletir. Bu proje, hem evcil hayvanların mama ve su takibini sağlamak hem de benzer izleme sistemlerinde veri kaynağı oluşturmak için kullanılabilir.
 
 ## Proje Özeti
 
